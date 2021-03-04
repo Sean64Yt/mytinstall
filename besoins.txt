@@ -1,0 +1,7 @@
+Pour des raisons que GitHub impose nous ne pouvons malheuresement pas enregistrer de fichiers d'un certains poids.
+C'est pour cette raison que nous vous demandons de vous rediriger sur le site dédié à ce projet si vous souhaitez l'installer et l'utiliser.
+mytinstall.tk
+Pour ce qui est des fichiers "needed" présent dans la version à télécharger:
+-youtube-dl.exe
+-ffmpeg.exe
+...
